@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970910173051",
+    "firebase_url": "https://email-authentication-36bff.firebaseio.com",
+    "project_id": "email-authentication-36bff",
+    "storage_bucket": "email-authentication-36bff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970910173051:android:eb879e58e7647d1a21dfde",
+        "android_client_info": {
+          "package_name": "com.example.emailauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970910173051-9005qcanbile6fuil80au4kje1m1o0p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emailauthentication",
+            "certificate_hash": "961faaeded0153ce9050582d1bc0c80d011655ad"
+          }
+        },
+        {
+          "client_id": "970910173051-24lgccvnrajig6k31rpvsa18fg2rg17l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-03Ta8odD3iJBStpyCLEmf9AmWHJ4npc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970910173051-24lgccvnrajig6k31rpvsa18fg2rg17l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

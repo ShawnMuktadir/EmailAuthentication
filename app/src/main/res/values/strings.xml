@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Email Authentication</string>
+    <string name="ok">OK</string>
+    <string name="exit_message">Please Press here to exit!</string>
+</resources>
